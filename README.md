@@ -1,53 +1,16 @@
-<h1 align="center">✨ Yoroshiku! Eu sou o Jovem ✨</h1>
+![Cyberpunk Banner](https://images.unsplash.com/photo-1593642632823-8f785ba67e45?auto=format&fit=crop&w=1350&q=80)
 
-<p align="center">
-  <img src="https://media.tenor.com/GfRP5qXJHfMAAAAC/gojo-satoru.gif" width="500">
-</p>
+## About Me
+Exploring web development and technology.
 
----
+## Languages & Tools
+![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![SQLite Badge](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## 📊 Minhas Estatísticas
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wifidose&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wifidose&theme=tokyonight" />
-</p>
+## Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=wifidose&style=flat-square&color=blue)
 
----
-
-## 🏆 Troféus
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wifidose&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 🎯 Tecnologias que uso
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,vscode,linux&theme=light" />
-</p>
-
----
-
-## 🎬 Animes Favoritos
-| 📺 Anime | ⭐ Nota |
-|----------|--------|
-| Jujutsu Kaisen | 10/10 |
-| One Piece | 10/10 |
-| Death Note | 9/10 |
-| Demon Slayer | 9/10 |
-| Naruto | 8/10 |
-
----
-
-## 📌 Curiosidade
-> "Um programador é como um protagonista de anime shonen: sempre começa fraco, mas nunca para de treinar."
-
-<p align="center">
-  <img src="https://media.tenor.com/rmfwKQlzTrgAAAAC/itachi-naruto.gif" width="400">
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU-USUARIO&label=Visualizações&color=blue&style=flat" />
-</p>
+## Cool Cyberpunk Vibes
+![Cyberpunk Image](https://images.unsplash.com/photo-1602524814830-ef0f7cbe7f30?auto=format&fit=crop&w=1350&q=80)
