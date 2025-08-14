@@ -8,15 +8,15 @@
 
 ## 📊 Minhas Estatísticas
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=SEU-USUARIO&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=wifidose&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wifidose&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🏆 Troféus
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO&theme=tokyonight&no-frame=true&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=wifidose&theme=tokyonight&no-frame=true&row=1&column=6" />
 </p>
 
 ---
