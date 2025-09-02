@@ -1,4 +1,29 @@
-# Sistema de Login Simples (Python)
+🇺🇸# Simple Login System (Python)
+
+This is a basic Python program that simulates a login system with **3 attempts**.
+
+## How to use
+1. Make sure you have **Python 3** installed.
+2. Save the code in a file named `login.py`.
+3. Run in the terminal:
+   ```bash
+   python login.py
+   ```
+
+## Default credentials
+- Username: `admin`  
+- Password: `12345`
+
+## Example
+```
+Enter your username: admin
+Enter your password: 12345
+Access granted
+```
+
+⚠️ This project is for **educational purposes only**. Do not use it as a real authentication system.
+
+🇧🇷# Sistema de Login Simples (Python)
 
 Este é um programa básico em Python que simula um sistema de login com **3 tentativas**.
 
