@@ -1,24 +1,13 @@
-tentativas = 0
+attempts = 0
+max_attempts = 3
 
-max_tentativas = 3
+while attempts < max_attempts:
+    username = input("Enter your username: ")
+    password = input("Enter your password: ")
 
-while tentativas < max_tentativas:
-
-usuario = input("digite seu usuario")
-
-senha = input ("digite sua senha")
-
-
-
-if usuario == "admin" and  senha == "12345":
-
- print("Acesso permitido")
-
- break
-
-else:
-
-  tentativas +=1
-
-  print(f"acesso negado, {tentativas}, de, {max_tentativas}, tentativas")
-
+    if username == "admin" and password == "12345":
+        print("Access granted")
+        break
+    else:
+        attempts += 1
+        print(f"Access denied, {attempts} of {max_attempts} attempts used")
