@@ -1,4 +1,4 @@
-🇺🇸 #Simple Login System (Python)
+🇺🇸 Simple Login System (Python)
 
 This is a basic Python program that simulates a login system with **3 attempts**.
 
@@ -23,7 +23,7 @@ Access granted
 
 ⚠️ This project is for **educational purposes only**. Do not use it as a real authentication system.
 
-🇧🇷 #Sistema de Login Simples (Python)
+🇧🇷 Sistema de Login Simples (Python)
 
 Este é um programa básico em Python que simula um sistema de login com **3 tentativas**.
 
